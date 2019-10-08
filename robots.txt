@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dahzaupei.langlv.me/sitemap.xml
